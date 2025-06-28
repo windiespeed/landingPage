@@ -1,0 +1,128 @@
+{
+    "Web": [
+        {
+            "title": "Project 1",
+            "description": "A sample project showcasing web work.",
+            "image": "/assets/design1.jpg"
+        },
+        {
+            "title": "Project 4",
+            "description": "A sample project showcasing web work.",
+            "image": "/assets/design4.jpg"
+        },
+        {
+            "title": "Project 7",
+            "description": "A sample project showcasing web work.",
+            "image": "/assets/photo1.jpg"
+        },
+        {
+            "title": "Project 10",
+            "description": "A sample project showcasing web work.",
+            "image": "/assets/photo3.jpg"
+        },
+        {
+            "title": "Project 13",
+            "description": "A sample project showcasing web work.",
+            "image": "/assets/photo6.jpg"
+        },
+        {
+            "title": "Project 16",
+            "description": "A sample project showcasing web work.",
+            "image": "/assets/photo9.jpg"
+        },
+        {
+            "title": "Project 19",
+            "description": "A sample project showcasing web work.",
+            "image": "/assets/web3.jpg"
+        },
+        {
+            "title": "Project 22",
+            "description": "A sample project showcasing web work.",
+            "image": "/assets/web6.jpg"
+        }
+    ],
+    "Design": [
+        {
+            "title": "Project 2",
+            "description": "A sample project showcasing design work.",
+            "image": "/assets/design2.jpg"
+        },
+        {
+            "title": "Project 5",
+            "description": "A sample project showcasing design work.",
+            "image": "/assets/design5.jpg"
+        },
+        {
+            "title": "Project 8",
+            "description": "A sample project showcasing design work.",
+            "image": "/assets/photo10.jpg"
+        },
+        {
+            "title": "Project 11",
+            "description": "A sample project showcasing design work.",
+            "image": "/assets/photo4.jpg"
+        },
+        {
+            "title": "Project 14",
+            "description": "A sample project showcasing design work.",
+            "image": "/assets/photo7.jpg"
+        },
+        {
+            "title": "Project 17",
+            "description": "A sample project showcasing design work.",
+            "image": "/assets/web1.jpg"
+        },
+        {
+            "title": "Project 20",
+            "description": "A sample project showcasing design work.",
+            "image": "/assets/web4.jpg"
+        },
+        {
+            "title": "Project 23",
+            "description": "A sample project showcasing design work.",
+            "image": "/assets/web7.jpg"
+        }
+    ],
+    "Photography": [
+        {
+            "title": "Project 3",
+            "description": "A sample project showcasing photography work.",
+            "image": "/assets/design3.jpg"
+        },
+        {
+            "title": "Project 6",
+            "description": "A sample project showcasing photography work.",
+            "image": "/assets/design6.jpg"
+        },
+        {
+            "title": "Project 9",
+            "description": "A sample project showcasing photography work.",
+            "image": "/assets/photo2.jpg"
+        },
+        {
+            "title": "Project 12",
+            "description": "A sample project showcasing photography work.",
+            "image": "/assets/photo5.jpg"
+        },
+        {
+            "title": "Project 15",
+            "description": "A sample project showcasing photography work.",
+            "image": "/assets/photo8.jpg"
+        },
+        {
+            "title": "Project 18",
+            "description": "A sample project showcasing photography work.",
+            "image": "/assets/web2.jpg"
+        },
+        {
+            "title": "Project 21",
+            "description": "A sample project showcasing photography work.",
+            "image": "/assets/web5.jpg"
+        },
+        {
+            "title": "Project 24",
+            "description": "A sample project showcasing photography work.",
+            "image": "/assets/web8.jpg"
+        }
+    ]
+}
