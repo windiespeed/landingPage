@@ -55,10 +55,12 @@ export default function Navbar() {
 
         <div className="container-fluid">
           <Link className="navbar-brand d-flex align-items-center" to="/" onClick={closeMenu}>
-            <img src="/assets/logo.svg" alt="Logo" height="60" className="me-2" />
-            <span>Windie Victoria Speed</span>
+            <img src="/assets/logo.svg" alt="Logo" height="80" className="me-2" />
+            <span>Windie Victoria LLC</span>
           </Link>
 
+
+          {/* 
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
             <span className="navbar-toggler-icon"></span>
           </button>
@@ -78,11 +80,13 @@ export default function Navbar() {
               </li>
             </ul>
           </div>
+            */}
+
         </div>
       </nav>
 
 
-      {/* Floating Theme Toggle Button */}
+      {/* Floating Theme Toggle Button 
       <button
         className="btn btn-theme theme-toggle-button"
         onClick={() => setDarkMode(!darkMode)}
@@ -90,7 +94,7 @@ export default function Navbar() {
       >
         <i className={`bi ${darkMode ? 'bi-sun' : 'bi-moon'}`}></i>
       </button>
-
+        */}
     </>
   );
 }
