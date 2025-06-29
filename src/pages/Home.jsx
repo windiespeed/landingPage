@@ -1,6 +1,5 @@
-// src/pages/Home.jsx
 import React from 'react';
-import './Home.css'; 
+import './Home.css';
 
 export default function Home() {
   return (
@@ -9,19 +8,14 @@ export default function Home() {
         <h1 className="display-4">Designing your story</h1>
         <p className="lead">One element at a time</p>
 
-        
-        <br></br>
-        <br></br>
-        <br></br>
+        <br />
+        <br />
+        <br />
 
-        <div class="text-center ctaButton">
-          
+        <div className="text-center ctaButton">
           <p>😎 Portfolio is a current work in progress...</p>
           <p>Please check back soon!</p>
-          
         </div>
-        
-
       </div>
     </div>
   );
