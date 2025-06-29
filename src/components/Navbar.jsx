@@ -27,6 +27,7 @@ export default function Navbar() {
         </div>
       </nav>
 
+      {/* 
       <button
         className="btn btn-theme theme-toggle-button"
         onClick={() => setDarkMode(!darkMode)}
@@ -34,6 +35,8 @@ export default function Navbar() {
       >
         <i className={`bi ${darkMode ? 'bi-sun' : 'bi-moon'}`}></i>
       </button>
+      */}
+      
     </>
   );
 }
